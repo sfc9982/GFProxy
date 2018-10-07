@@ -1,4 +1,4 @@
 @ECHO OFF
-TITLE ¸ñÀï·ÒÒ¤×Ó By:sfc9982
+TITLE æ ¼é‡ŒèŠ¬çª‘å­ By:sfc9982
 .\main.exe
 PAUSE
